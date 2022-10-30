@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\bin\Debug\net6.0\Exercise 52.exe
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\bin\Debug\net6.0\Exercise 52.deps.json
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\bin\Debug\net6.0\Exercise 52.runtimeconfig.json
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\bin\Debug\net6.0\Exercise 52.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\bin\Debug\net6.0\Exercise 52.pdb
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\refint\Exercise 52.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.pdb
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\Exercise 52.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 52\obj\Debug\net6.0\ref\Exercise 52.dll
