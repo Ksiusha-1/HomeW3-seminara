@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\bin\Debug\net6.0\Exercise 29.exe
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\bin\Debug\net6.0\Exercise 29.deps.json
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\bin\Debug\net6.0\Exercise 29.runtimeconfig.json
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\bin\Debug\net6.0\Exercise 29.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\bin\Debug\net6.0\Exercise 29.pdb
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\refint\Exercise 29.dll
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.pdb
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\Exercise 29.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeW3 seminara\Exercise include\Exercise 29\obj\Debug\net6.0\ref\Exercise 29.dll
